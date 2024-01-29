@@ -1,0 +1,8 @@
+{
+    "name":"job/postings",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
